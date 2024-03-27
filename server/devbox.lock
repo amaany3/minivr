@@ -1,0 +1,149 @@
+{
+  "lockfile_version": "1",
+  "packages": {
+    "atlas@0.20.0": {
+      "last_modified": "2024-03-22T11:26:23Z",
+      "resolved": "github:NixOS/nixpkgs/a3ed7406349a9335cb4c2a71369b697cecd9d351#atlas",
+      "source": "devbox-search",
+      "version": "0.20.0",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/ni4jhpwmb3v97l0bma6wjc0v8v59w0fl-atlas-0.20.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/ni4jhpwmb3v97l0bma6wjc0v8v59w0fl-atlas-0.20.0"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/h4amzw6rbi20p2slh29ajq8bfy7rsrjd-atlas-0.20.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/h4amzw6rbi20p2slh29ajq8bfy7rsrjd-atlas-0.20.0"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/n33a3hb069131pk0i1sn8swd7ysbm76y-atlas-0.20.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/n33a3hb069131pk0i1sn8swd7ysbm76y-atlas-0.20.0"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/ra5i0jxlwgc3bxp6b7wv4vrkq2cs3a4i-atlas-0.20.0",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/ra5i0jxlwgc3bxp6b7wv4vrkq2cs3a4i-atlas-0.20.0"
+        }
+      }
+    },
+    "go@1.22": {
+      "last_modified": "2024-03-22T11:26:23Z",
+      "resolved": "github:NixOS/nixpkgs/a3ed7406349a9335cb4c2a71369b697cecd9d351#go",
+      "source": "devbox-search",
+      "version": "1.22.1",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/n1k6wf8q10q7k0863gb78b1rf0j07r7r-go-1.22.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/n1k6wf8q10q7k0863gb78b1rf0j07r7r-go-1.22.1"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/fl6cjlp5bvykfz1kxrw687zxzld25pn7-go-1.22.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/fl6cjlp5bvykfz1kxrw687zxzld25pn7-go-1.22.1"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/xgdp7gnf6vzr2ick2ip1lhq4cww65p7w-go-1.22.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/xgdp7gnf6vzr2ick2ip1lhq4cww65p7w-go-1.22.1"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/bp39dh48cdqp89hk5mpdi1lxdf0mjl7x-go-1.22.1",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/bp39dh48cdqp89hk5mpdi1lxdf0mjl7x-go-1.22.1"
+        }
+      }
+    },
+    "sqlboiler@4.16.2": {
+      "last_modified": "2024-03-22T11:26:23Z",
+      "resolved": "github:NixOS/nixpkgs/a3ed7406349a9335cb4c2a71369b697cecd9d351#sqlboiler",
+      "source": "devbox-search",
+      "version": "4.16.2",
+      "systems": {
+        "aarch64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/b7mcgzh2xwc00a0wsppz0d9x9f1110x8-sqlboiler-4.16.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/b7mcgzh2xwc00a0wsppz0d9x9f1110x8-sqlboiler-4.16.2"
+        },
+        "aarch64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/gb83x1a0sg91g99rasyszpfqc4qj445h-sqlboiler-4.16.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/gb83x1a0sg91g99rasyszpfqc4qj445h-sqlboiler-4.16.2"
+        },
+        "x86_64-darwin": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/f4xvhwx7gap4a5ihkkfm4j1hxf3y6bcd-sqlboiler-4.16.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/f4xvhwx7gap4a5ihkkfm4j1hxf3y6bcd-sqlboiler-4.16.2"
+        },
+        "x86_64-linux": {
+          "outputs": [
+            {
+              "name": "out",
+              "path": "/nix/store/s6l14c1qg438p7a6cfjp62j93blgl2hb-sqlboiler-4.16.2",
+              "default": true
+            }
+          ],
+          "store_path": "/nix/store/s6l14c1qg438p7a6cfjp62j93blgl2hb-sqlboiler-4.16.2"
+        }
+      }
+    }
+  }
+}

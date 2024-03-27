@@ -1,0 +1,3 @@
+{
+  "packages": ["go@1.22", "sqlboiler@4.16.2", "atlas@0.20.0"]
+}
