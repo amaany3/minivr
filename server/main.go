@@ -1,7 +1,11 @@
 package main
 
-import "log/slog"
+import "github.com/amaany3/minivr/server/internal/logger"
+
+func init() {
+	logger.EnableCloudLoggingLogger()
+}
 
 func main() {
-	slog.Info("hello world!")
+	logger.Info("hello world!")
 }
